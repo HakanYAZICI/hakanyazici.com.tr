@@ -1,3 +1,5 @@
 url: https://hakanyazici.com.tr
 name: Hakan Yazıcı
 description: Aklım gidip gelse de, unutmuyorum
+
+theme: jekyll-theme-slate
